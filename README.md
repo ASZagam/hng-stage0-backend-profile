@@ -102,7 +102,7 @@ http://127.0.0.1:8000/me
     "user": {
         "email": "abdulmaliksz02@gmail.com",
         "name": "Abdulmalik Sani Zagam",
-        "stack": "Backend/Python/Django"
+        "stack": "Python/Django"
     },
     "timestamp": "2025-10-17T20:41:25.553568+00:00",
     "fact": "The Maine Coone is the only native American long haired breed."
