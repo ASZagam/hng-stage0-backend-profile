@@ -27,7 +27,9 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 
-ALLOWED_HOSTS = ['*']
+#ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['hng-stage0-backend-profile.pxxl.app']
+
 
 
 # Application definition
